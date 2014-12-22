@@ -36,9 +36,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The copie of a letter sent by the French king to the people of Artoys and Henault requesting them to
+
 #####Body#####
-The copie of a letter sent by the French king to the people of Artoys and Henault requesting them to
+
+1. The French Kinges letter ſent to the people
+of Artois and Henault requeſting them to remooue
+the forces gathered by the King of Spain from
+the borders of France, otherwiſe denouncing
+open warre.
+
+1. THE
+Kinges Proclamation.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
